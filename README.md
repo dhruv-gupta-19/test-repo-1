@@ -1,2 +1,6 @@
 # test-repo-1
-Test Demo of Github and commands
+Test Demo of Git.
+
+
+First Change made!
+
