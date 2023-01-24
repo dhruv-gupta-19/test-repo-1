@@ -4,6 +4,6 @@ import boto3
 s3 = boto3.client('s3')
 
 # Create a new S3 bucket
-s3.create_bucket(Bucket='Customer-data-1')
+s3.create_bucket(Bucket='Data-dump-1')
 
 
