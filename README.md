@@ -2,5 +2,7 @@
 Test Demo of Git.
 
 
-First Change made!
+First Change made.
+
+This is a demo of how github works!
 
